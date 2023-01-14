@@ -1,0 +1,9 @@
+body {
+  background: darkcyan;
+  color: white;
+}
+
+.js-image {
+  width: 400px;
+  height: 250px;
+}
